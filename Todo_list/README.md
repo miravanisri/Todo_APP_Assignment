@@ -52,7 +52,7 @@ The search functionality is implemented using URL parameters. When a user types 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/miravanisri/Todo_APP_Assignment
+   git clone https://github.com/miravanisri/Todo_App_Assignment.git
 2. Navigate to the project directory:
    ```bash
    cd todo-list-app
